@@ -1,1 +1,2 @@
-console.log("Hola rchivo 1")
+console.log("Hola archivo 1")
+console.log("Vamos bien")
